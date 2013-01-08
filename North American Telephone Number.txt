@@ -1,5 +1,6 @@
 ########################################################################################
-Matches a 10 digit North American Telephone Number, with or without brackets around the area code and allowing for either dots/hypthens to separate number blocks.
+Matches a 10 digit North American Telephone Number, with or without brackets around the 
+area code and allowing for either dots/hypthens to separate number blocks.
 ########################################################################################
 
 
